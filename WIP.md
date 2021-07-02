@@ -1,2 +1,0 @@
-- [x] add line on index.php
-- [ ] add function on index.php
