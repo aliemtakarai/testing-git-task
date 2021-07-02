@@ -1,2 +1,2 @@
-- [ ] add line on index.php
+- [x] add line on index.php
 - [ ] add function on index.php
